@@ -1,0 +1,10 @@
+.Home{
+    display: flex;
+}
+
+.home_box{
+    margin: 1rem;
+    width: 100%;
+    height: 50vh;;
+    border: 1px solid lightgray;
+}
